@@ -1,0 +1,5 @@
+com\gray\user\entity\User.class
+com\gray\user\controller\LoginController.class
+com\gray\base\shiro\ShiroDbRealm.class
+com\gray\user\service\UserService.class
+com\gray\user\service\impl\UserServiceImpl.class
